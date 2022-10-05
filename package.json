@@ -1,12 +1,15 @@
 {
-  "name": "web-fundamentals",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+	"name": "web-fundamentals",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"test": "jest"
+	},
+	"keywords": [],
+	"author": "Suyash Pradhan",
+	"license": "ISC",
+	"devDependencies": {
+		"jest": "^29.1.2"
+	}
 }
